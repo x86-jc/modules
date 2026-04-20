@@ -1,12 +1,12 @@
 /************************************************
- * Title:			coyote		*
- * Creator:			John Coleman	*
- * Creation Date:		2025.01.05	*
- * Modified Date:		2025.01.21	*
- * 						*
- * Description:					*
- * Basic character device driver.		*
- *						*
+ * Title:			coyote						*
+ * Creator:			John Coleman				*
+ * Creation Date:		2025.01.05				*
+ * Modified Date:		2025.01.21				*
+ * 												*
+ * Description:									*
+ * Basic character device driver.				*
+ *												*
  ************************************************/
 
 
