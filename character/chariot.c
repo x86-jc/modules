@@ -1,12 +1,12 @@
 /************************************************
- * Title:		chariot		         *
- * Creator:		John J. Coleman		*
- * Creation Date:	2026.04.22		*
- * Modified Date:	2026.04.22		*
- * 						*
- * Description:					*
- * Create a character device.			*
- *						*
+ * Title:		chariot		         			*
+ * Creator:		John J. Coleman					*
+ * Creation Date:	2026.04.22					*
+ * Modified Date:	2026.04.22					*
+ * 												*
+ * Description:									*
+ * Create a character device.					*
+ *												*
  ************************************************/
 
 #include <linux/module.h>
