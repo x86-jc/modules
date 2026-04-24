@@ -1,12 +1,12 @@
 /************************************************
- * Title:		chafi		        *
- * Creator:		John J. Coleman		*
- * Creation Date:	2026.04.24		*
- * Modified Date:	2026.04.24		*
- * 						*
- * Description:					*
+ * Title:		chafi		        			*
+ * Creator:		John J. Coleman					*
+ * Creation Date:	2026.04.24					*
+ * Modified Date:	2026.04.24					*
+ * 												*
+ * Description:									*
  * Create a character device and create device	*
- * file in module.				*
+ * file in module.								*
  ************************************************/
 
 #include <linux/module.h>
