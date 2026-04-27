@@ -1,11 +1,11 @@
 /************************************************
- * Title:		chamal		        *
- * Creator:		John J. Coleman		*
- * Creation Date:	2026.04.27		*
- * Modified Date:	2026.04.27		*
- * 						*
- * Description:					*
- * Test for chamal module.			*
+ * Title:		chamal		        			*
+ * Creator:		John J. Coleman					*
+ * Creation Date:	2026.04.27					*
+ * Modified Date:	2026.04.27					*
+ * 												*
+ * Description:									*
+ * Test for chamal module.						*
  ************************************************/
 
 #include <stdio.h>
