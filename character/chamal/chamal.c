@@ -1,12 +1,12 @@
 /************************************************
- * Title:		chamal		        *
- * Creator:		John J. Coleman		*
- * Creation Date:	2026.04.27		*
- * Modified Date:	2026.04.27		*
- * 						*
- * Description:					*
+ * Title:		chamal		        			*
+ * Creator:		John J. Coleman					*
+ * Creation Date:	2026.04.27					*
+ * Modified Date:	2026.04.27					*
+ * 												*
+ * Description:									*
  * Memory allocation within character device 	*
- * module.					*
+ * module.										*
  ************************************************/
 
 #include <linux/module.h>
@@ -28,7 +28,7 @@ static struct class *chamal_class;
 static int chamal_open(struct inode *inode, struct file *filp)
 {
 	/* open files allow us to pass private data. */
-	/* (number of bytes, flag for allocation */
+	/* (number of bytes, flag for allocation) */
 	filp->private_data = kmalloc(MEMSIZE, GFP_KERNEL);
 	if(!filp->private_data)
 	{
